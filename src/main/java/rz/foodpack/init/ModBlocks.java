@@ -12,4 +12,5 @@ public class ModBlocks
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
 	public static final Block RZ_KITCHEN_TILE = new BlockBase("block_kitchen", Material.ROCK);
+	public static final Block RZ_KITCHEN_TILE_2 = new BlockBase("block_kitchen_2", Material.ROCK);
 }

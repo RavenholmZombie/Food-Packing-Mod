@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "rzfp:blocks/block_kitchen_2"
+   }
+}
