@@ -13,7 +13,7 @@ public class ModItems {
 	public static final Item STYROTRAY = new ItemBase("item_styrotray");
 	public static final Item STYRODUST = new ItemBase("item_styropowder");
 	
-	public static final Item MEATHAMMER = new ItemBase("tool_hammer");
+	public static final Item BEATMYMEAT = new ItemBase("tool_hammer");
 	public static final Item KNIFE = new ItemBase("tool_knife");
 	
 	public static final Item PLASTICWRAP = new ItemBase("item_plasticwrap");
