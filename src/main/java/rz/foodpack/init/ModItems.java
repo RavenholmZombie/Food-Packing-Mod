@@ -18,4 +18,7 @@ public class ModItems {
 	
 	public static final Item PLASTICWRAP = new ItemBase("item_plasticwrap");
 	
+	// Food
+	public static final Item STEAKSINGLE = new ItemBase("food_steaksingle");
+	public static final Item STEAKDOUBLE = new ItemBase("food_steakdouble");
 }

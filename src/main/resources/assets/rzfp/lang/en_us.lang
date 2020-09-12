@@ -4,5 +4,10 @@ item.item_plasticwrap.name=Plastic Wrap
 item.tool_hammer.name=Meat Tenderizer
 item.tool_knife.name=Knife
 
+item.food_steaksingle.name=Steak
+item.food_steakdouble.name=Steak - Two Pack
+
 tile.block_kitchen.name=Kitchen Floor
 tile.block_kitchen_2.name=Kitchen Floor
+tile.block_kitchen_drain.name=Kitchen Floor with Drain
+tile.block_kitchen_drain_2.name=Kitchen Floor with Drain
