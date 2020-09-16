@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "rzfp:blocks/block_plastic_wrap" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "rzfp:blocks/block_plastic_wrap" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "rzfp:blocks/block_plastic_wrap","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "rzfp:blocks/block_plastic_wrap","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "rzfp:block_plastic_wrap_front","y":180 
+        }
+    }
+}

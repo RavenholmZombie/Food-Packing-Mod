@@ -6,6 +6,7 @@ import java.util.List;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import rz.foodpack.blocks.BlockBase;
+import rz.foodpack.blocks.WrapBox;
 
 public class ModBlocks 
 {
@@ -18,4 +19,7 @@ public class ModBlocks
 	// Commercial Kitchen Tiles w/Drains
 	public static final Block RZ_KITCHEN_TILE_DRAIN = new BlockBase("block_kitchen_drain", Material.ROCK);
 	public static final Block RZ_KITCHEN_TILE_DRAIN_2 = new BlockBase("block_kitchen_drain_2", Material.ROCK);
+	
+	// FOR TESTING PURPOSES... for now, at least :P
+	public static final Block WRAP_BOX = new WrapBox("block_plastic_wrap", Material.IRON);
 }
