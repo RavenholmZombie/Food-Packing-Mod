@@ -7,6 +7,7 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import rz.foodpack.init.MemeRecord;
 import rz.foodpack.proxy.CommonProxy;
 import rz.foodpack.util.Reference;
 
@@ -21,7 +22,8 @@ public class Main {
 	
 	
 	@EventHandler
-	public static void PreInit(FMLPreInitializationEvent event) {
+	public static void PreInit(FMLPreInitializationEvent event) 
+	{
 		
 	}
 	@EventHandler

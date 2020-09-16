@@ -3,8 +3,11 @@ package rz.foodpack.init;
 import java.util.ArrayList;
 import java.util.List;
 
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemRecord;
 import rz.foodpack.items.ItemBase;
+import rz.foodpack.items.ItemMemeRecord;
 
 public class ModItems {
 	
@@ -21,4 +24,10 @@ public class ModItems {
 	// Food
 	public static final Item STEAKSINGLE = new ItemBase("food_steaksingle");
 	public static final Item STEAKDOUBLE = new ItemBase("food_steakdouble");
+	
+	// Meme record lol
+	public static final Item MEME_RECORD = new ItemMemeRecord("memerecord", MemeRecord.MEME, "meme_record", "meme_record", CreativeTabs.MISC);
+	
+	
+	
 }
